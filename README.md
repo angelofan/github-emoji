@@ -2,7 +2,7 @@
 
 Use a colon to the front and rear surround expression syntax designations.
 
-```php
+```
 :blush:
 ```
 上面的字母会显示为这个表情 :blush:
